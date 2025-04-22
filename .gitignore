@@ -5,3 +5,5 @@ __pycache__/
 # IDE/editor folders
 .vscode/
 .idea/
+# Database
+database.db
